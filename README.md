@@ -3,7 +3,7 @@
 <p>This project was built along with the Laboratory Digital Electronics at the Technical University of Applied Sciences of Regensburg (OTH Regensburg), Bavaria, Germany. The simulation of the JK-Flip-Flop with AMD Vivado is the focus of the project.</p>
 <p>Here’s a truth table summarizing the operation of a JK flip-flop with 2 digital signals J und K as an inputs and the clock signal CLK:</p>
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/a82acd81-08ed-4720-a130-46bed2459a27" alt="Testbild">
+    <img src="https://github.com/user-attachments/assets/a82acd81-08ed-4720-a130-46bed2459a27" alt="Testbild"> (1)
 </div>
 
 ## Simulation
@@ -11,3 +11,9 @@
 <div align="center">
     <img src="https://github.com/user-attachments/assets/443d111e-681a-4ded-8f28-cab9fc0ea0f6" alt="Testbild">
 </div>
+<br>
+<br>
+<br>
+<br>
+
+###### <p>Sources:<br>(1) https://ecstudiosystems.com/discover/textbooks/basic-electronics/flip-flops/j-k-flip-flop/</p>
