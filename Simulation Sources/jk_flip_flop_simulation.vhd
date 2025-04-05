@@ -2,12 +2,12 @@ library IEEE;
 use IEEE.Std_logic_1164.all;
 use IEEE.Numeric_Std.all;
 
-entity Aufgabe2_JK_tb is
+entity JK_flip_flop_tb is
 end;
 
-architecture bench of Aufgabe2_JK_tb is
+architecture bench of JK_flip_flop_tb is
 
-  component Aufgabe2_JK
+  component JK_flip_flop
       Port ( J : in STD_LOGIC;
              K : in STD_LOGIC;
              CLK : in STD_LOGIC;
@@ -22,7 +22,7 @@ architecture bench of Aufgabe2_JK_tb is
 
     begin
 
-    uut: Aufgabe2_JK
+    uut: JK_flip_flop
     port map   (J => J,
                 K => K,
                 CLK => CLK,
